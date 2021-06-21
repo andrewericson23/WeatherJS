@@ -1,0 +1,29 @@
+.title {
+  margin-top: 5vh;
+  color: black;
+}
+
+body {
+  background-color: black;
+}
+
+.title {
+  color: white;
+}
+
+.list-group-item {
+  background-color: rgb(31, 31, 31);
+  color: white;
+}
+
+.modal {
+  margin-top: 15vh;
+}
+
+.form-group {
+  margin: 40px 0px;
+}
+
+#city {
+  margin: 60px 0px;
+}
